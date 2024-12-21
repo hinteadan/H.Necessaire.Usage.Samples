@@ -16,9 +16,11 @@ namespace H.Necessaire.Samples.IoC
 
             ImADataGenerator staticDataGenerator = depsProvider.Build<ImADataGenerator>("static");
             ImADataGenerator randomDataGenerator = depsProvider.Build<ImADataGenerator>("random");
+            ImADataGenerator composedDataGenerator = depsProvider.Build<ImADataGenerator>("composed");
 
             Console.WriteLine(string.Join(", ", await staticDataGenerator.GenerateIntegers()));
             Console.WriteLine(string.Join(", ", await randomDataGenerator.GenerateIntegers()));
+            Console.WriteLine(string.Join(", ", await composedDataGenerator.GenerateIntegers()));
         }
     }
 }
