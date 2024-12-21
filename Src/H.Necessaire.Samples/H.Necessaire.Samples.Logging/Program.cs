@@ -10,6 +10,7 @@ namespace H.Necessaire.Samples.Logging
                 = H.Necessaire.IoC
                 .NewDependencyRegistry()
                 .Register<HNecessaireDependencyGroup>(() => new HNecessaireDependencyGroup())
+                .Register<MyCustomLogProcessor>(() => new MyCustomLogProcessor())
                 ;
 
             ImALogger logger = depsProvider.GetLogger<Program>();
