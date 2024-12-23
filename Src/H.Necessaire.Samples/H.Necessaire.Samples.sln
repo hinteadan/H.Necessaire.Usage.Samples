@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H.Necessaire.Samples.Loggin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H.Necessaire.Samples.Resilience", "H.Necessaire.Samples.Resilience\H.Necessaire.Samples.Resilience.csproj", "{013F708D-E3B0-444B-A110-63EAC6AECF61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H.Necessaire.Samples.ThrottleAndDebounce", "H.Necessaire.Samples.ThrottleAndDebounce\H.Necessaire.Samples.ThrottleAndDebounce.csproj", "{DCC9FE35-6271-4545-A0CC-ED57397C0E17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{013F708D-E3B0-444B-A110-63EAC6AECF61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{013F708D-E3B0-444B-A110-63EAC6AECF61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{013F708D-E3B0-444B-A110-63EAC6AECF61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC9FE35-6271-4545-A0CC-ED57397C0E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC9FE35-6271-4545-A0CC-ED57397C0E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC9FE35-6271-4545-A0CC-ED57397C0E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC9FE35-6271-4545-A0CC-ED57397C0E17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
