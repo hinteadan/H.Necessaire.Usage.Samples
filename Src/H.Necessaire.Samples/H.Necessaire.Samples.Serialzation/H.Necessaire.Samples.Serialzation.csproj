@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="H.Necessaire.Serialization" Version="2.43.4" />
+    <PackageReference Include="H.Necessaire.Serialization" Version="2.43.14" />
   </ItemGroup>
 
 </Project>

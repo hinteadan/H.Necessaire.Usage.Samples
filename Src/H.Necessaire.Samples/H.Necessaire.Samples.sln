@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H.Necessaire.Samples.Thrott
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H.Necessaire.Samples.Caching", "H.Necessaire.Samples.Caching\H.Necessaire.Samples.Caching.csproj", "{4503EFD4-7FCA-4432-820C-AC08CF4D3CAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H.Necessaire.Samples.DateTimeDerivatives", "H.Necessaire.Samples.DateTimeDerivatives\H.Necessaire.Samples.DateTimeDerivatives.csproj", "{FEF90977-4F5D-4ABD-A6D0-1B2FCD8D2D48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{4503EFD4-7FCA-4432-820C-AC08CF4D3CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4503EFD4-7FCA-4432-820C-AC08CF4D3CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4503EFD4-7FCA-4432-820C-AC08CF4D3CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEF90977-4F5D-4ABD-A6D0-1B2FCD8D2D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF90977-4F5D-4ABD-A6D0-1B2FCD8D2D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF90977-4F5D-4ABD-A6D0-1B2FCD8D2D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF90977-4F5D-4ABD-A6D0-1B2FCD8D2D48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
