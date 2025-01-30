@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H.Necessaire.Samples.Cachin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H.Necessaire.Samples.DateTimeDerivatives", "H.Necessaire.Samples.DateTimeDerivatives\H.Necessaire.Samples.DateTimeDerivatives.csproj", "{FEF90977-4F5D-4ABD-A6D0-1B2FCD8D2D48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H.Necessaire.Samples.SortingAndPagination", "H.Necessaire.Samples.SortingAndPagination\H.Necessaire.Samples.SortingAndPagination.csproj", "{8777F7A0-5AE0-4F3B-9BC6-344FA25E264E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{FEF90977-4F5D-4ABD-A6D0-1B2FCD8D2D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEF90977-4F5D-4ABD-A6D0-1B2FCD8D2D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEF90977-4F5D-4ABD-A6D0-1B2FCD8D2D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8777F7A0-5AE0-4F3B-9BC6-344FA25E264E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8777F7A0-5AE0-4F3B-9BC6-344FA25E264E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8777F7A0-5AE0-4F3B-9BC6-344FA25E264E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8777F7A0-5AE0-4F3B-9BC6-344FA25E264E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
