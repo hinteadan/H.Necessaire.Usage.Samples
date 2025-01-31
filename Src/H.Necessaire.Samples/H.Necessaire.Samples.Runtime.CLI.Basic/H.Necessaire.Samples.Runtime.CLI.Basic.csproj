@@ -6,11 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="attachment.png" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <PackageReference Include="H.Necessaire" Version="2.43.19" />
+    <PackageReference Include="H.Necessaire.CLI" Version="2.43.19" />
   </ItemGroup>
 
 </Project>
